@@ -8,6 +8,7 @@ int main()
         for(j=i+1;j<5;j++)
         if (arr[i]+arr[j]==s)
     printf("result:[%d %d]\n",i,j);
+    printf("sangeeth,chetan");
     return 0;
 
 }
